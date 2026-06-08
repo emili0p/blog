@@ -1,3 +1,34 @@
-baseURL = 'https://example.org/'
-locale = 'en-es'
-title = 'blog personal'
+baseURL = 'https://emili0p.xyz/'
+languageCode = 'es-mx'
+title = 'emili0p'
+theme = 'terminal'
+
+[pagination]
+pagerSize = 5
+
+[params]
+centerTheme = true
+showMenuItems = 5
+fullWidthTheme = false
+
+[[params.social]]
+name = "github"
+url = "https://github.com/emili0p"
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 3
