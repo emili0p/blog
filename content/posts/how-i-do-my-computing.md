@@ -4,8 +4,7 @@ draft = false
 title = 'how i do my computing'
 +++
 
-
-# Introducción
+### Introducción
 
 La computadora desde que soy un niño han sido una parte importante de mi vida, verlas con fasicinacion desde la distancia para comprender como es que funcionaban y lo que se podia hacer con ella era una cosa que no puedo describir y que a dia de hoy siento en cierta medida, futo de esta fasicinacion con el tiempo he pasado por distintos sistemas operativos, herramientas y formas de trabajar, hasta llegar a una configuración que se siente cómoda, simple y mia.
 
@@ -38,7 +37,7 @@ También utilizo una Lenovo ThinkPad T14 Gen 1 con las siguientes especificacion
 
 Al igual que mi equipo principal, ejecuta KDE Plasma, por comodidad mas que nada aunque he jugado con cosas como tiling WM, como i3 y no me desagrada la experiencia.
 
-![Mi escritorio principal con ambas maquinas](/images/setup.webp)
+![Mi escritorio principal con ambas maquinas](images/setup.webp)
 *Mi escritorio principal y mi ThinkPad T14 Gen 1, junto a mi peluchito de tux*
 ### Software
 
@@ -53,7 +52,7 @@ Las herramientas que utilizo diariamente son bastante sencillas:
 
 Intento mantener mi entorno relativamente simple, esto se debe a que prefiero conocer bien unas pocas herramientas antes que depender de muchas aplicaciones distintas, casi todo lo hago desde kitty y no suelo usar muchas GUI, incluso mi reproductor de musica rmpc se ejecuta aqui!
 
-![rmpc reproduciendo bloodythirsty butchers una de mis bandas favoritas!](/images/rmpc.png)
+![rmpc reproduciendo bloodythirsty butchers una de mis bandas favoritas!](images/rmpc.png)
 *rmpc reproduciendo bloodythirsty butchers una de mis bandas favoritas!*
 
 ### ¿Por qué Linux?
