@@ -5,7 +5,7 @@ title = 'how i do my computing'
 +++
 
 
-### Introducción
+# Introducción
 
 La computadora desde que soy un niño han sido una parte importante de mi vida, verlas con fasicinacion desde la distancia para comprender como es que funcionaban y lo que se podia hacer con ella era una cosa que no puedo describir y que a dia de hoy siento en cierta medida, futo de esta fasicinacion con el tiempo he pasado por distintos sistemas operativos, herramientas y formas de trabajar, hasta llegar a una configuración que se siente cómoda, simple y mia.
 
