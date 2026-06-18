@@ -17,9 +17,12 @@ Editor TUI para editar metadatos de música.
 Cerca de su primer release, me inspire mucho de rmpc
 
 ![estado actual del proyecto](/images/taged.png)
+estado actual de taged
 ![taged2](/images/taged2.png)
+tui para editar
 
 **Repositorio:** https://github.com/emili0p/taged
+
 ### wlb (we love bash)
 
 Colección de scripts que he ido escribiendo para automatizar tareas, muchos son tonterias
@@ -31,7 +34,9 @@ de los que me siento mas orgulloso
 - backup de imagenes: compara archivos entre mi laptop y mi torre para ver si existen en la torre, si no los manda por sshcp, haciendo un backup de las imagenes de la laptop
 
 ![Organizar de musica](/images/organizador.png)
+organizador de musica
 ![Lanzador de juegos](/images/gamerunner.png)
+agregame en steam y jugemos un age!
 
 **Repositorio:** https://github.com/emili0p/wlb
 
@@ -41,6 +46,7 @@ Mis configuraciones personales de Linux, .zshrc, kitty, Neovim y otras herramien
 En algun futuro si experimento con sistemas declarativos los incluire ahi tambien
 
 ![configuracion de nvim](/images/nvim.png)
+mi config de nvim 
 
 **Repositorio:** https://github.com/emili0p/dotfiles
 
@@ -67,6 +73,7 @@ he participado en proyectos colaborativos, dentro de la universidad.
 Proyecto universitario desarrollado en equipo encargado de la arquitectura del mismo es una especie de sistema integral de control escolar, donde realize scripts para llenar la base de datos de prueba de datos falsos, ademas de programación en backend con laravel.
 
 ![arquitectura propuesta](/images/arqr.drawio.png)
+La arquitectura propuesta para el proyecto 
 
 **Repositorio:** https://github.com/Oscar-Noe-LP/SICE
 
