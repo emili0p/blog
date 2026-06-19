@@ -18,7 +18,7 @@ Este sitio reune algunos de mis proyectos, notas y experimentos
 - LinkedIn: <https://www.linkedin.com/in/emilio-izquierdo-91b16933a/>
 - Steam: <https://steamcommunity.com/id/emili_0/>
 - Last.fm: <https://www.last.fm/user/emili_0>
-- Rate Your Music: <https://rateyourmusic.com/~emili_0>
+- Rate Your Music: <https://rateyourmusic.com/~emili_0wo>
 
 ## Contacto
 
