@@ -1,3 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>emili0p</title><link>https://emili0p.github.io/blog/</link><description>Recent content on emili0p</description><generator>Hugo</generator><language>es-mx</language><lastBuildDate>Wed, 10 Jun 2026 14:09:04 -0600</lastBuildDate><atom:link href="https://emili0p.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>how i do my computing</title><link>https://emili0p.github.io/blog/posts/how-i-do-my-computing/</link><pubDate>Wed, 10 Jun 2026 14:09:04 -0600</pubDate><guid>https://emili0p.github.io/blog/posts/how-i-do-my-computing/</guid><description>&lt;h3 id="introducción"&gt;Introducción&lt;/h3&gt;
-&lt;p&gt;La computadora desde que soy un niño han sido una parte importante de mi vida, verlas con fasicinacion desde la distancia para comprender como es que funcionaban y lo que se podia hacer con ella era una cosa que no puedo describir y que a dia de hoy siento en cierta medida, futo de esta fasicinacion con el tiempo he pasado por distintos sistemas operativos, herramientas y formas de trabajar, hasta llegar a una configuración que se siente cómoda, simple y mia.&lt;/p&gt;</description></item><item><title>About</title><link>https://emili0p.github.io/blog/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emili0p.github.io/blog/about/</guid><description>&lt;p&gt;Estudiante de informática.&lt;/p&gt;
-&lt;p&gt;Interesado en compiladores, Linux, sistemas distribuidos, redes y software libre.&lt;/p&gt;</description></item><item><title>Projects</title><link>https://emili0p.github.io/blog/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emili0p.github.io/blog/projects/</guid><description>&lt;p&gt;Mis projectos pueden encontrarse en mi github&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>emili0p</title>
+		<link>https://emili0p.github.io/blog/</link>
+		<description>Recent content on emili0p</description>
+		<generator>Hugo</generator>
+		<language>es-mx</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://emili0p.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Projects</title>
+				<link>https://emili0p.github.io/blog/projects/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://emili0p.github.io/blog/projects/</guid>
+				<description>&lt;h1 id=&#34;proyectos&#34;&gt;Proyectos&lt;/h1&gt;&#xA;&lt;p&gt;Aquí dejo algunas cosas que he hecho y que tengo publicadas, la mayoría son proyectos personales son hechos apartir del aburrimiento y con la intencion de aprender, experimentar o simplemente porque me parecieron una buena idea.&lt;/p&gt;&#xA;&lt;h2 id=&#34;proyectos-1&#34;&gt;Proyectos&lt;/h2&gt;&#xA;&lt;h3 id=&#34;taged&#34;&gt;taged&lt;/h3&gt;&#xA;&lt;p&gt;Editor TUI para editar metadatos de música.&#xA;Cerca de su primer release, me inspire mucho de rmpc&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://emili0p.github.io/blog/images/taged.png&#34; alt=&#34;estado actual del proyecto&#34;&gt;&#xA;estado actual de taged&#xA;&lt;img src=&#34;https://emili0p.github.io/blog/images/taged2.png&#34; alt=&#34;taged2&#34;&gt;&#xA;tui para editar&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Repositorio:&lt;/strong&gt; &lt;a href=&#34;https://github.com/emili0p/taged&#34;&gt;https://github.com/emili0p/taged&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;wlb-we-love-bash&#34;&gt;wlb (we love bash)&lt;/h3&gt;&#xA;&lt;p&gt;Colección de scripts que he ido escribiendo para automatizar tareas, muchos son tonterias&#xA;de los que me siento mas orgulloso&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>how i do my computing</title>
+				<link>https://emili0p.github.io/blog/posts/how-i-do-my-computing/</link>
+				<pubDate>Wed, 10 Jun 2026 14:09:04 -0600</pubDate>
+				<guid>https://emili0p.github.io/blog/posts/how-i-do-my-computing/</guid>
+				<description>&lt;h3 id=&#34;introducción&#34;&gt;Introducción&lt;/h3&gt;&#xA;&lt;p&gt;La computadora desde que soy un niño han sido una parte importante de mi vida, verlas con fasicinacion desde la distancia para comprender como es que funcionaban y lo que se podia hacer con ella era una cosa que no puedo describir y que a dia de hoy siento en cierta medida, futo de esta fasicinacion con el tiempo he pasado por distintos sistemas operativos, herramientas y formas de trabajar, hasta llegar a una configuración que se siente cómoda, simple y mia.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>https://emili0p.github.io/blog/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://emili0p.github.io/blog/about/</guid>
+				<description>&lt;p&gt;Hola, soy Emilio.&lt;/p&gt;&#xA;&lt;p&gt;Tengo 21 años y estudio ingeniería en sistemas computacionales en méxico&lt;/p&gt;&#xA;&lt;p&gt;Desde que descubrí las computadoras me ha interesado entender cómo funcionan por dentro por lo que estudiar ingenieria era el camino logico para mi formacion profesional entre otras cosas. disfruto aprender sobre sistemas operativos, y herramientas nuevas, también soy me interesa el software libre y el open source&lt;/p&gt;&#xA;&lt;p&gt;Fuera de la programación, me gusta escuchar música, descubrir artistas nuevos o cualquier cosa que me pueda soprender ademas de jugar videojuegos y pasar tiempo investigando temas que despiertan mi curiosidad, como lo son la politica o la fisolofia&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
